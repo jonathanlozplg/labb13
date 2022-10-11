@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\bin\Debug\net6.0\labb13.exe
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\bin\Debug\net6.0\labb13.deps.json
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\bin\Debug\net6.0\labb13.runtimeconfig.json
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\bin\Debug\net6.0\labb13.dll
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\bin\Debug\net6.0\labb13.pdb
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\labb13.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\labb13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\labb13.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\labb13.AssemblyInfo.cs
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\labb13.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\labb13.dll
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\refint\labb13.dll
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\labb13.pdb
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\labb13.genruntimeconfig.cache
+C:\Users\User\OneDrive\Skrivbord\labb13\labb13\obj\Debug\net6.0\ref\labb13.dll
